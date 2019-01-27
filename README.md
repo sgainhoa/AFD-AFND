@@ -1,1 +1,1 @@
-# AFD-AFND
+# Automatas Haskell (AFD-AFND)
